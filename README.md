@@ -10,5 +10,4 @@ Using multiple custom webscrapers and APIs, indicators of a coins success are cr
 If enough time is left, users will be able to register and add certain coins to a watchlist. 
 
 # Mockup Images
-
-All your files are listed in the file explorer. You can switch from one to another by clicking a file in the list.
+![Alt text](https://github.com/swcloud1/CryptoAnalyzer/blob/master/screenshot.png "Optional title")
