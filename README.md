@@ -9,6 +9,16 @@ Using multiple custom webscrapers and APIs, indicators of a coins success are cr
 
 If enough time is left, users will be able to register and add certain coins to a watchlist. 
 
+# Functies van CryptoAnalyzer (nog vertalen naar engels)
+
+- Zie ontwikkelaarsactiviteit en volumehandelverandering voor alle cryptomunten in 1 overzicht
+
+- Bekijk een grafiek van het verloop van deze waarden t.o.v elkaar en als functie van tijd
+
+- Sla een cryptocoin op en voeg deze daarmee toe aan een persoonlijke volglijst
+
+- Exporteer/Deel je eigen lijst met anderen via populaire messaging platformen
+
 ## Data Sources
 The original data sources are Coinmarketcap.com(a site that indexes all cryptocurrencies) and Github.com.
 The data will be modified fairly heavily. Repositories and commits will be analyzed for trends for each coin. Coinmarketcap is used as a source for the Github URL for each coin. It is also used to get the tradevolume for each coin for the past 52 weeks.
